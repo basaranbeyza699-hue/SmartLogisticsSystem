@@ -1,0 +1,4 @@
+
+Öğrenci No: [1250505024]
+Adı Soyadı: Beyza Başaran
+Görevi: Tüm Sistem Mimarisi, Kodlama, Testler ve Dokümantasyon (Tek Kişilik Proje)
